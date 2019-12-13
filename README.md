@@ -3,7 +3,7 @@ ZEFIR Core integration/staging tree
 
 https://zefir.icu
 
-Explorer: https://explorer.zefir.icu
+Explorer: https://supervisor.divinelife.club/zefir
 
 What is ZEFIR?
 --------------
