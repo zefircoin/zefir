@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/zefir_bg.qm</file>
+        <file alias="ca">locale/zefir_ca.qm</file>
+        <file alias="cs">locale/zefir_cs.qm</file>
+        <file alias="da">locale/zefir_da.qm</file>
+        <file alias="de">locale/zefir_de.qm</file>
+        <file alias="en">locale/zefir_en.qm</file>
+        <file alias="en_US">locale/zefir_en_US.qm</file>
+        <file alias="eo">locale/zefir_eo.qm</file>
+        <file alias="es">locale/zefir_es.qm</file>
+        <file alias="es_ES">locale/zefir_es_ES.qm</file>
+        <file alias="fi">locale/zefir_fi.qm</file>
+        <file alias="fr_FR">locale/zefir_fr_FR.qm</file>
+        <file alias="hi_IN">locale/zefir_hi_IN.qm</file>
+        <file alias="hr">locale/zefir_hr.qm</file>
+        <file alias="hr_HR">locale/zefir_hr_HR.qm</file>
+        <file alias="it">locale/zefir_it.qm</file>
+        <file alias="ja">locale/zefir_ja.qm</file>
+        <file alias="ko_KR">locale/zefir_ko_KR.qm</file>
+        <file alias="lt_LT">locale/zefir_lt_LT.qm</file>
+        <file alias="nl">locale/zefir_nl.qm</file>
+        <file alias="pl">locale/zefir_pl.qm</file>
+        <file alias="pt">locale/zefir_pt.qm</file>
+        <file alias="pt_BR">locale/zefir_pt_BR.qm</file>
+        <file alias="ro_RO">locale/zefir_ro_RO.qm</file>
+        <file alias="ru">locale/zefir_ru.qm</file>
+        <file alias="sk">locale/zefir_sk.qm</file>
+        <file alias="sv">locale/zefir_sv.qm</file>
+        <file alias="tr">locale/zefir_tr.qm</file>
+        <file alias="uk">locale/zefir_uk.qm</file>
+        <file alias="vi">locale/zefir_vi.qm</file>
+        <file alias="zh_CN">locale/zefir_zh_CN.qm</file>
+        <file alias="zh_TW">locale/zefir_zh_TW.qm</file>
+    </qresource>
+</RCC>

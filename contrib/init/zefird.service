@@ -1,0 +1,26 @@
+[Unit]
+Description=ZEFIR's distributed currency daemon
+After=network.target
+
+[Service]
+User=zefir
+Group=zefir
+
+Type=forking
+PIDFile=/var/lib/zefird/zefird.pid
+
+ExecStart=/usr/bin/zefird -daemon -pid=/var/lib/zefird/zefird.pid \
+          -conf=/etc/zefir/zefir.conf -datadir=/var/lib/zefird
+
+ExecStop=-/usr/bin/zefir-cli -conf=/etc/zefir/zefir.conf \
+         -datadir=/var/lib/zefird stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

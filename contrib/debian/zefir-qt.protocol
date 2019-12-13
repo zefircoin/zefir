@@ -1,0 +1,11 @@
+[Protocol]
+exec=zefir-qt '%u'
+protocol=zefir
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
