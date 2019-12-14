@@ -11,8 +11,8 @@ Explorer API: https://supervisor.divinelife.club/zefir
 Masternode setup:
 --------------
 
-Install masternode using docker: https://github.com/smartinsider/dvn-elastic-masternode
-Multy masternode config (HOW TO SETUP MN DONATE): https://zefir.divinelife.club/doc/masternode_conf
+  - Install masternode using docker: https://github.com/smartinsider/dvn-elastic-masternode
+  - Multy masternode config (HOW TO SETUP MN DONATE): https://zefir.divinelife.club/doc/masternode_conf
 
 
 
